@@ -35,5 +35,19 @@ Let's Sports is a mobile application designed to connect sports enthusiasts, ena
    ```
 4. Scan the QR code with the Expo Go app to run it on your device.
 
+## Screenshots
+### Home, Explore, Profile
+<img src="https://drive.google.com/uc?id=1u6n4DQkdqnfZy0wLzkQnb4rpIoZBsqwv" width="600px" />
+
+### Before & After Joining an Activities
+<img src="https://drive.google.com/uc?id=12o5SsEzqA430rNlEiNtsWfABEFfGOsxC" width="600px" />
+
+### Search for an Activities
+<img src="https://drive.google.com/uc?id=1EkYKU2bgw2KY4cfj3QViy9ZQFfRwYunV" width="600px" />
+
+### Notifications
+<img src="https://drive.google.com/uc?id=13eZsTF2D5hngR5eoFMoJFQ8_jBMpJo2F" width="600px" />
+
+
 ## Contributing
 Feel free to open issues or submit pull requests to improve the project.
